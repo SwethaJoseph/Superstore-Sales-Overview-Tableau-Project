@@ -60,5 +60,8 @@ Based on the analysis, the following recommendations are made:
 
 ## Tableau Public Dashboard
 You can explore the interactive dashboard on Tableau Public through the link below:
+[Superstore Sales Overview Dashboard on Tableau Public](https://public.tableau.com/shared/H4SN7J8ZQ?:display_count=n&:origin=viz_share_link)
 
-Superstore Sales Analysis Dashboard on Tableau Public
+## Contact
+For any questions or suggestions, please reach out to  [LinkedIn | Swetha Kizhavana Joseph](https://www.linkedin.com/in/swetha-kizhavana-joseph-04b68721b/)
+
