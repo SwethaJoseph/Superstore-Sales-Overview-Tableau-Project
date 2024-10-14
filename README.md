@@ -25,25 +25,25 @@ The dataset comprises 21 fields and 9,994 rows in the Orders table, providing a 
 * Actionable Insights: Provide data-driven recommendations for improving performance in underperforming regions and product categories.
 
 ## Key Visualizations and Insights
-* Regional Sales and Profit Analysis
+* Regional Sales and Profit Analysis: 
 The West region is the top performer, contributing $725,458 in sales and $108,418 in profit, while the Central region lags in both sales and profitability.
 Strategies should focus on improving sales in the South and Central regions to drive overall growth.
-* Monthly Sales Trends (2014-2017)
+* Monthly Sales Trends (2014-2017): 
 Sales show a general upward trend from 2014 to 2017, with significant growth in 2016 and 2017.
 November and December consistently deliver the highest sales, likely driven by holiday shopping.
 January and February consistently report the lowest sales, suggesting a potential area for strategic improvements.
-* Product Category and Subcategory Performance
+* Product Category and Subcategory Performance:
 Technology products account for 36.4% of total sales, making it the top-performing product category. Investing further in Technology could drive even more growth.
 Phones and Chairs are the highest-selling subcategories, each generating over $300K in sales.
 Subcategories like Art and Supplies show weaker sales, indicating areas that may need additional marketing or product revisions.
-* Profitability by Region and State
+* Profitability by Region and State:
 California and New York generate the highest profits, while states like Texas, Pennsylvania, and Ohio report negative profits, indicating underperformance in these regions.
 The West region overall has the highest profit contribution, while the Central region has the lowest.
-* Customer Segmentation and Sales Distribution
+* Customer Segmentation and Sales Distribution:
 The Consumer segment is the most profitable, with total sales of $1,161,401 and high profit margins.
 Corporate and Home Office segments also perform well but contribute less than the Consumer segment.
 Strategies focusing on the Consumer segment may drive the highest returns.
-* Order Quantity Distribution
+* Order Quantity Distribution:
 Most orders fall within the 2-6 item range, with larger orders being rare. This pattern suggests that inventory management should prioritize stocking lower quantities of frequently ordered items.
 
 ## Tools and Technologies
